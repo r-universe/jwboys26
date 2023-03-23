@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "Buddle"]
+	path = Buddle
+	url = https://github.com/cran/Buddle
+	shallow = true
+	registered = true
+[submodule "GofKmt"]
+	path = GofKmt
+	url = https://github.com/cran/GofKmt
+	shallow = true
+	registered = true
+[submodule "HMMEsolver"]
+	path = HMMEsolver
+	url = https://github.com/cran/HMMEsolver
+	shallow = true
+	registered = true
+[submodule "KoulMde"]
+	path = KoulMde
+	url = https://github.com/cran/KoulMde
+	shallow = true
+	registered = true
