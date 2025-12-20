@@ -11,6 +11,3 @@
 [submodule "HMMEsolver"]
 	path = HMMEsolver
 	url = https://github.com/cran/HMMEsolver
-[submodule "KoulMde"]
-	path = KoulMde
-	url = https://github.com/cran/KoulMde
