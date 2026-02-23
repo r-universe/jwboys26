@@ -8,6 +8,3 @@
 [submodule "GofKmt"]
 	path = GofKmt
 	url = https://github.com/cran/GofKmt
-[submodule "HMMEsolver"]
-	path = HMMEsolver
-	url = https://github.com/cran/HMMEsolver
