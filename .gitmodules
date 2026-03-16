@@ -5,6 +5,3 @@
 [submodule "Buddle"]
 	path = Buddle
 	url = https://github.com/cran/Buddle
-[submodule "GofKmt"]
-	path = GofKmt
-	url = https://github.com/cran/GofKmt
